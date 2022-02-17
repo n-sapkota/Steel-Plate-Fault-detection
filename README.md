@@ -1,6 +1,6 @@
 # Steel plate fault detection
 
- ## Data Source
+## Data Source
 
  The full dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/steel+plates+faults).
 
